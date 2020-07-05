@@ -29,5 +29,9 @@ module.exports = {
     'space-before-blocks': 'error',
     'space-infix-ops': 'error',
     'object-curly-spacing': ['error', 'always'],
+
+    // Disable root validation until it adapts to Vue 3 where we can have multiple
+    // of them. I guess this rule will disappear once that occurs.
+    'vue/valid-template-root': ['off'],
   }
 };
