@@ -14,6 +14,7 @@ module.exports = {
     sourceType: 'module'
   },
   plugins: ['vue'],
+  ignorePatterns: ['*.css'],
   rules: {
     'indent': ['error', 2],
     'linebreak-style': ['error', 'unix'],
