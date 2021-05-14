@@ -17,5 +17,7 @@
     "eslint": ">= 7",
     "eslint-plugin-vue": "^7.0.0"
   },
-  "scripts": {}
+  "scripts": {
+    "test": ""
+  }
 }
