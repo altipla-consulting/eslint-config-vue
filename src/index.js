@@ -31,7 +31,7 @@ module.exports = {
     'space-infix-ops': 'error',
     'object-curly-spacing': ['error', 'always'],
 
-    'vue/mustache-interpolation-spacing': 'never',
+    'vue/mustache-interpolation-spacing': ['error', 'never'],
 
     // Disable root validation until it adapts to Vue 3 where we can have multiple
     // of them. I guess this rule will disappear once that occurs.
