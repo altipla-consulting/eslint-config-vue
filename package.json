@@ -18,7 +18,7 @@
   "homepage": "https://github.com/altipla-consulting/eslint-config-vue#readme",
   "peerDependencies": {
     "eslint": ">= 7",
-    "eslint-plugin-vue": "^7.0.0"
+    "eslint-plugin-vue": "^7.10.0"
   },
   "scripts": {
     "test": ""
