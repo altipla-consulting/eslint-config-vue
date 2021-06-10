@@ -1,6 +1,6 @@
 {
   "name": "@altipla/eslint-config-vue",
-  "version": "0.2.6",
+  "version": "0.3.0",
   "description": "ESLint configuration for our Vue projects.",
   "main": "./src/index.js",
   "repository": {
